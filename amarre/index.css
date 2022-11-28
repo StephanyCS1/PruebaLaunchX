@@ -1,0 +1,32 @@
+/* Hacer un amarre */
+
+button:hover{
+    cursor: pointer;
+}
+
+h1{
+    color: #F529C2;
+}
+
+.modoS{
+    background-color: #1F3E72;
+    height: 2000px;
+    position: absolute;
+    display: none;
+    width: 100%;
+    z-index: 1000;
+}
+
+#btn-yes{
+    background-color: #95364D;
+    border-color: #95364D;
+    color: white;
+    font-size: xx-large;
+    padding: 32px;
+    text-align: center;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
